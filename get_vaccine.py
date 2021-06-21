@@ -22,7 +22,7 @@ mvzlaim = (
 )
 
 hausarztglockenbachviertel = (
-    "MVZ-Impfzentrum-Laim",
+    "Hausarzt-Glockenbachviertel",
     "https://www.doctolib.de/availabilities.json?start_date= {}&visit_motive_ids=2767063&agenda_ids=450406&insurance_sector=public&practice_ids=106858&destroy_temporary=true&limit=4",
     "https://www.doctolib.de/praxis/muenchen/hausarztpraxis-muenchen?speciality_id=5593&practitioner_id=any",
     pollTime,
